@@ -1,0 +1,88 @@
+
+[
+    {},
+{
+    "id": "1",
+    "img": "images/play_1.gif",
+    "tit1": "2019新品",
+    "tit2": "骆驼情侣皮肤衣",
+    "price": "￥219"
+},
+{
+    "id": "2",
+    "img": "images/play_2.gif",
+    "tit1": "2019新品",
+    "tit2": "男女轻薄透气皮肤衣",
+    "price": "￥279"
+},
+{
+    "id": "3",
+    "img": "images/play_3.gif",
+    "tit1": "2019新品",
+    "tit2": "户外休闲纯色T恤",
+    "price": "￥169"
+},
+{
+    "id": "4",
+    "img": "images/play_4.gif",
+    "tit1": "2019新品",
+    "tit2": "骆驼户外情侣休闲T恤",
+    "price": "￥119"
+},
+{
+    "id": "5",
+    "img": "images/play_5.gif",
+    "tit1": "2019新品",
+    "tit2": "骆驼户外速干裤",
+    "price": "￥169"
+},
+{
+    "id": "6",
+    "img": "images/play_6.gif",
+    "tit1": "2019新品",
+    "tit2": "男女款轻薄透气速干裤",
+    "price": "￥179"
+},
+{
+    "id": "7",
+    "img": "images/play_7.gif",
+    "tit1": "2019新品",
+    "tit2": "情侣款户外沙滩鞋",
+    "price": "￥139"
+},
+{
+    "id": "8",
+    "img": "images/play_8.gif",
+    "tit1": "2019新品",
+    "tit2": "男女魔术贴凉鞋",
+    "price": "￥149"
+},
+{
+    "id": "9",
+    "img": "images/play_9.gif",
+    "tit1": "2019新品",
+    "tit2": "情侣款透气套脚鞋",
+    "price": "￥189"
+},
+{
+    "id": "10",
+    "img": "images/play_10.gif",
+    "tit1": "2019新品",
+    "tit2": "骆驼户外登山鞋",
+    "price": "￥259"
+},
+{
+    "id": "11",
+    "img": "images/play_11.gif",
+    "tit1": "2019新品",
+    "tit2": "骆驼户外保暖睡袋",
+    "price": "￥99"
+},
+{
+    "id": "12",
+    "img": "images/play_12.gif",
+    "tit1": "2019新品",
+    "tit2": "全自动帐篷",
+    "price": "￥259"
+}
+]

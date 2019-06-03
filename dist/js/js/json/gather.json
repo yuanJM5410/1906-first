@@ -1,0 +1,961 @@
+{
+    "touban": [
+        {
+            "id": "1",
+            "img": "../images/top_2.jpg",
+            "smallImg": "../images/top_2.jpg",
+            "styleImg": "../images/top_2.jpg"
+        },
+        {
+            "id": "2",
+            "img": "../images/top_1.jpg",
+            "smallImg": "../images/top_1.jpg",
+            "styleImg": "../images/top_1.jpg"
+        },
+        {
+            "id": "3",
+            "img": "../images/top_3.jpg",
+            "smallImg": "../images/top_3.jpg",
+            "styleImg": "../images/top_3.jpg"
+        },
+        {
+            "id": "4",
+            "img": "../images/top_4.jpg",
+            "smallImg": "../images/top_4.jpg",
+            "styleImg": "../images/top_4.jpg"
+        },
+        {
+            "id": "5",
+            "img": "../images/top_6.jpg",
+            "smallImg": "../images/top_6.jpg",
+            "styleImg": "../images/top_6.jpg"
+        },
+        {
+            "id": "6",
+            "img": "../images/top_5.jpg",
+            "smallImg": "../images/top_5.jpg",
+            "styleImg": "../images/top_5.jpg"
+        },
+        {
+            "id": "7",
+            "img": "../images/top_7.jpg",
+            "smallImg": "../images/top_7.jpg",
+            "styleImg": "../images/top_7.jpg"
+        }
+    ],
+
+    "tuijian": [
+        [{
+            "id": "1",
+            "absImg": "images/xinpin.png",
+            "img": "../images/new_1.jpg"
+        },
+        {
+            "id": "2",
+            "absImg": "images/xinpin.png",
+            "img": "../images/new_2.jpg"
+        },
+        {
+            "id": "3",
+            "absImg": "images/xinpin.png",
+            "img": "../images/new_3.jpg"
+        },
+        {
+            "id": "4",
+            "absImg": "images/xinpin.png",
+            "img": "../images/new_4.jpg"
+        }
+        ]
+        ,
+
+
+        [{
+            "id": "1",
+            "absImg": "images/特惠.png",
+            "img": "../images/特惠_01.png"
+        },
+        {
+            "id": "2",
+            "absImg": "images/特惠.png",
+            "img": "../images/特惠_02.png"
+        },
+        {
+            "id": "3",
+            "absImg": "images/特惠.png",
+            "img": "../images/特惠_03.png"
+        },
+        {
+            "id": "4",
+            "absImg": "images/特惠.png",
+            "img": "../images/特惠_04.png"
+        }
+        ]
+        ,
+
+
+
+        [{
+            "id": "1",
+            "absImg": "images/爆品.png",
+            "img": "../images/爆款_1.png"
+        },
+        {
+            "id": "2",
+            "absImg": "images/爆品.png",
+            "img": "../images/爆款_2.png"
+        },
+        {
+            "id": "3",
+            "absImg": "images/爆品.png",
+            "img": "../images/爆款_3.png"
+        },
+        {
+            "id": "4",
+            "absImg": "images/爆品.png",
+            "img": "../images/爆款_4.png"
+        }
+        ]
+
+        ,
+        [{
+            "id": "1",
+            "absImg": "images/尊贵系列.png",
+            "img": "../images/尊贵_01.png"
+        },
+        {
+            "id": "2",
+            "absImg": "images/尊贵系列.png",
+            "img": "../images/尊贵_02.png"
+        },
+        {
+            "id": "3",
+            "absImg": "images/尊贵系列.png",
+            "img": "../images/尊贵_03.png"
+        },
+        {
+            "id": "4",
+            "absImg": "images/尊贵系列.png",
+            "img": "../images/尊贵_04.png"
+        }
+        ]
+    ],
+
+    "xinpin": [
+        {
+            "id": "1",
+            "img": "../images/nes_4.jpg",
+            "smallImg": "../images/nes_4.jpg",
+            "styleImg": "../images/nes_4.jpg"
+        },
+        {
+            "id": "2",
+            "img": "../images/nes_3.jpg",
+            "smallImg": "../images/nes_3.jpg",
+            "styleImg": "../images/nes_3.jpg"
+        },
+        {
+            "id": "3",
+            "img": "../images/nes_2.jpg",
+            "smallImg": "../images/nes_2.jpg",
+            "styleImg": "../images/nes_2.jpg"
+        },
+        {
+            "id": "4",
+            "img": "../images/nes_1.jpg",
+            "smallImg": "../images/nes_1.jpg",
+            "styleImg": "../images/nes_1.jpg"
+        }
+    ],
+
+    "huwai": [
+        {
+            "id": "1",
+            "img": "../images/huwai_1.jpg",
+            "smallImg": "../images/huwai_1.jpg",
+            "styleImg": "../images/huwai_1.jpg"
+        },
+        {
+            "id": "2",
+            "img": "../images/huwai_2.jpg",
+            "smallImg": "../images/huwai_2.jpg",
+            "styleImg": "../images/huwai_2.jpg"
+        },
+        {
+            "id": "3",
+            "img": "../images/huwai_3.jpg",
+            "smallImg": "../images/huwai_3.jpg",
+            "styleImg": "../images/huwai_3.jpg"
+        },
+        {
+            "id": "4",
+            "img": "../images/huwai_4.jpg",
+            "smallImg": "../images/huwai_4.jpg",
+            "styleImg": "../images/huwai_4.jpg"
+        },
+        {
+            "id": "5",
+            "img": "../images/huwai_5.jpg",
+            "smallImg": "../images/huwai_5.jpg",
+            "styleImg": "../images/huwai_5.jpg"
+        },
+        {
+            "id": "6",
+            "img": "../images/huwai_6.jpg",
+            "smallImg": "../images/huwai_6.jpg",
+            "styleImg": "../images/huwai_6.jpg"
+        },
+        {
+            "id": "7",
+            "img": "../images/huwai_7.jpg",
+            "smallImg": "../images/huwai_7.jpg",
+            "styleImg": "../images/huwai_7.jpg"
+        },
+        {
+            "id": "8",
+            "img": "../images/huwai_8.jpg",
+            "smallImg": "../images/huwai_8.jpg",
+            "styleImg": "../images/huwai_8.jpg"
+        },
+        {
+            "id": "9",
+            "img": "../images/huwai_9.jpg",
+            "smallImg": "../images/huwai_9.jpg",
+            "styleImg": "../images/huwai_9.jpg"
+        },
+        {
+            "id": "10",
+            "img": "../images/huwai_10.jpg",
+            "smallImg": "../images/huwai_10.jpg",
+            "styleImg": "../images/huwai_10.jpg"
+        },
+        {
+            "id": "11",
+            "img": "../images/huwai_11.jpg",
+            "smallImg": "../images/huwai_11.jpg",
+            "styleImg": "../images/huwai_11.jpg"
+        },
+        {
+            "id": "12",
+            "img": "../images/huwai_12.jpg",
+            "smallImg": "../images/huwai_12.jpg",
+            "styleImg": "../images/huwai_12.jpg"
+        },
+        {
+            "id": "13",
+            "img": "../images/bighuwai_2.jpg",
+            "smallImg": "../images/bighuwai_2.jpg",
+            "styleImg": "../images/bighuwai_2.jpg"
+        },
+        {
+            "id": "14",
+            "img": "../images/bighuwai_1.jpg",
+            "smallImg": "../images/bighuwai_1.jpg",
+            "styleImg": "../images/bighuwai_1.jpg"
+        },
+        {
+            "id": "15",
+            "img": "../images/bighuwai_3.jpg",
+            "smallImg": "../images/bighuwai_3.jpg",
+            "styleImg": "../images/bighuwai_3.jpg"
+        },
+        {
+            "id": "16",
+            "img": "../images/bighuwai_4.jpg",
+            "smallImg": "../images/bighuwai_4.jpg",
+            "styleImg": "../images/bighuwai_4.jpg"
+        },
+        {
+            "id": "17",
+            "img": "../images/bighuwai_5.jpg",
+            "smallImg": "../images/bighuwai_5.jpg",
+            "styleImg": "../images/bighuwai_5.jpg"
+        }
+    ],
+
+    "nanxie": [
+        {
+            "id": "1",
+            "img": "../images/shoe_1.jpg",
+            "smallImg": "../images/shoe_1.jpg",
+            "styleImg": "../images/shoe_1.jpg"
+        },
+        {
+            "id": "2",
+            "img": "../images/shoe_2.jpg",
+            "smallImg": "../images/shoe_2.jpg",
+            "styleImg": "../images/shoe_2.jpg"
+        },
+        {
+            "id": "3",
+            "img": "../images/shoe_3.jpg",
+            "smallImg": "../images/shoe_3.jpg",
+            "styleImg": "../images/shoe_3.jpg"
+        },
+        {
+            "id": "4",
+            "img": "../images/shoe_4.jpg",
+            "smallImg": "../images/shoe_4.jpg",
+            "styleImg": "../images/shoe_4.jpg"
+        },
+        {
+            "id": "5",
+            "img": "../images/shoe_5.jpg",
+            "smallImg": "../images/shoe_5.jpg",
+            "styleImg": "../images/shoe_5.jpg"
+        },
+        {
+            "id": "6",
+            "img": "../images/shoe_6.jpg",
+            "smallImg": "../images/shoe_6.jpg",
+            "styleImg": "../images/shoe_6.jpg"
+        },
+        {
+            "id": "7",
+            "img": "../images/shoe_7.jpg",
+            "smallImg": "../images/shoe_7.jpg",
+            "styleImg": "../images/shoe_7.jpg"
+        },
+        {
+            "id": "8",
+            "img": "../images/shoe_8.jpg",
+            "smallImg": "../images/shoe_8.jpg",
+            "styleImg": "../images/shoe_8.jpg"
+        },
+        {
+            "id": "9",
+            "img": "../images/shoe_9.jpg",
+            "smallImg": "../images/shoe_9.jpg",
+            "styleImg": "../images/shoe_9.jpg"
+        },
+        {
+            "id": "10",
+            "img": "../images/shoe_10.jpg",
+            "smallImg": "../images/shoe_10.jpg",
+            "styleImg": "../images/shoe_10.jpg"
+        },
+        {
+            "id": "11",
+            "img": "../images/shoe_11.jpg",
+            "smallImg": "../images/shoe_11.jpg",
+            "styleImg": "../images/shoe_11.jpg"
+        },
+        {
+            "id": "12",
+            "img": "../images/shoe_12.jpg",
+            "smallImg": "../images/shoe_12.jpg",
+            "styleImg": "../images/shoe_12.jpg"
+        },
+        {
+            "id": "13",
+            "img": "../images/bigShoe_1.jpg",
+            "smallImg": "../images/bigShoe_1.jpg",
+            "styleImg": "../images/bigShoe_1.jpg"
+        },
+        {
+            "id": "14",
+            "img": "../images/bigShoe_2.jpg",
+            "smallImg": "../images/bigShoe_2.jpg",
+            "styleImg": "../images/bigShoe_2.jpg"
+        },
+        {
+            "id": "15",
+            "img": "../images/bigShoe_3.jpg",
+            "smallImg": "../images/bigShoe_3.jpg",
+            "styleImg": "../images/bigShoe_3.jpg"
+        },
+        {
+            "id": "16",
+            "img": "../images/bigShoe_4.jpg",
+            "smallImg": "../images/bigShoe_4.jpg",
+            "styleImg": "../images/bigShoe_4.jpg"
+        },
+        {
+            "id": "17",
+            "img": "../images/bigShoe_5.jpg",
+            "smallImg": "../images/bigShoe_5.jpg",
+            "styleImg": "../images/bigShoe_5.jpg"
+        }
+    ],
+
+    "nvxie": [
+        {
+            "id": "1",
+            "img": "../images/woman_1.jpg",
+            "smallImg": "../images/woman_1.jpg",
+            "styleImg": "../images/woman_1.jpg"
+        },
+        {
+            "id": "2",
+            "img": "../images/woman_2.jpg",
+            "smallImg": "../images/woman_2.jpg",
+            "styleImg": "../images/woman_2.jpg"
+        },
+        {
+            "id": "3",
+            "img": "../images/woman_3.jpg",
+            "smallImg": "../images/woman_3.jpg",
+            "styleImg": "../images/woman_3.jpg"
+        },
+        {
+            "id": "4",
+            "img": "../images/woman_4.jpg",
+            "smallImg": "../images/woman_4.jpg",
+            "styleImg": "../images/woman_4.jpg"
+        },
+        {
+            "id": "5",
+            "img": "../images/woman_5.jpg",
+            "smallImg": "../images/woman_5.jpg",
+            "styleImg": "../images/woman_5.jpg"
+        },
+        {
+            "id": "6",
+            "img": "../images/woman_6.jpg",
+            "smallImg": "../images/woman_6.jpg",
+            "styleImg": "../images/woman_6.jpg"
+        },
+        {
+            "id": "7",
+            "img": "../images/woman_7.jpg",
+            "smallImg": "../images/woman_7.jpg",
+            "styleImg": "../images/woman_7.jpg"
+        },
+        {
+            "id": "8",
+            "img": "../images/woman_8.jpg",
+            "smallImg": "../images/woman_8.jpg",
+            "styleImg": "../images/woman_8.jpg"
+        },
+        {
+            "id": "9",
+            "img": "../images/woman_9.jpg",
+            "smallImg": "../images/woman_9.jpg",
+            "styleImg": "../images/woman_9.jpg"
+        },
+        {
+            "id": "10",
+            "img": "../images/woman_10.jpg",
+            "smallImg": "../images/woman_10.jpg",
+            "styleImg": "../images/woman_10.jpg"
+        },
+        {
+            "id": "11",
+            "img": "../images/woman_11.jpg",
+            "smallImg": "../images/woman_11.jpg",
+            "styleImg": "../images/woman_11.jpg"
+        },
+        {
+            "id": "12",
+            "img": "../images/woman_12.jpg",
+            "smallImg": "../images/woman_12.jpg",
+            "styleImg": "../images/woman_12.jpg"
+        },
+        {
+            "id": "13",
+            "img": "../images/bigWoman_1.jpg",
+            "smallImg": "../images/bigWoman_1.jpg",
+            "styleImg": "../images/bigWoman_1.jpg"
+        },
+        {
+            "id": "14",
+            "img": "../images/bigWoman_2.jpg",
+            "smallImg": "../images/bigWoman_2.jpg",
+            "styleImg": "../images/bigWoman_2.jpg"
+        },
+        {
+            "id": "15",
+            "img": "../images/bigWoman_3.jpg",
+            "smallImg": "../images/bigWoman_3.jpg",
+            "styleImg": "../images/bigWoman_3.jpg"
+        },
+        {
+            "id": "16",
+            "img": "../images/bigWoman_4.jpg",
+            "smallImg": "../images/bigWoman_4.jpg",
+            "styleImg": "../images/bigWoman_4.jpg"
+        },
+        {
+            "id": "17",
+            "img": "../images/bigWoman_5.jpg",
+            "smallImg": "../images/bigWoman_5.jpg",
+            "styleImg": "../images/bigWoman_5.jpg"
+        }
+    ],
+    
+    "nanzhuang": [
+        {
+            "id": "1",
+            "img": "../images/man_1.jpg",
+            "smallImg": "../images/man_1.jpg",
+            "styleImg": "../images/man_1.jpg"
+        },
+        {
+            "id": "2",
+            "img": "../images/man_2.jpg",
+            "smallImg": "../images/man_2.jpg",
+            "styleImg": "../images/man_2.jpg"
+        },
+        {
+            "id": "3",
+            "img": "../images/man_3.jpg",
+            "smallImg": "../images/man_3.jpg",
+            "styleImg": "../images/man_3.jpg"
+        },
+        {
+            "id": "4",
+            "img": "../images/man_4.jpg",
+            "smallImg": "../images/man_4.jpg",
+            "styleImg": "../images/man_4.jpg"
+        },
+        {
+            "id": "5",
+            "img": "../images/man_5.jpg",
+            "smallImg": "../images/man_5.jpg",
+            "styleImg": "../images/man_5.jpg"
+        },
+        {
+            "id": "6",
+            "img": "../images/man_6.jpg",
+            "smallImg": "../images/man_6.jpg",
+            "styleImg": "../images/man_6.jpg"
+        },
+        {
+            "id": "7",
+            "img": "../images/man_7.jpg",
+            "smallImg": "../images/man_7.jpg",
+            "styleImg": "../images/man_7.jpg"
+        },
+        {
+            "id": "8",
+            "img": "../images/man_8.jpg",
+            "smallImg": "../images/man_8.jpg",
+            "styleImg": "../images/man_8.jpg"
+        },
+        {
+            "id": "9",
+            "img": "../images/man_9.jpg",
+            "smallImg": "../images/man_9.jpg",
+            "styleImg": "../images/man_9.jpg"
+        },
+        {
+            "id": "10",
+            "img": "../images/man_10.jpg",
+            "smallImg": "../images/man_10.jpg",
+            "styleImg": "../images/man_10.jpg"
+        },
+        {
+            "id": "11",
+            "img": "../images/man_11.jpg",
+            "smallImg": "../images/man_11.jpg",
+            "styleImg": "../images/man_11.jpg"
+        },
+        {
+            "id": "12",
+            "img": "../images/man_12.jpg",
+            "smallImg": "../images/man_12.jpg",
+            "styleImg": "../images/man_12.jpg"
+        },
+        {
+            "id": "13",
+            "img": "../images/bigMan_1.gif",
+            "smallImg": "../images/bigMan_1.gif",
+            "styleImg": "../images/bigMan_1.gif"
+        },
+        {
+            "id": "14",
+            "img": "../images/bigMan_4.gif",
+            "smallImg": "../images/bigMan_4.gif",
+            "styleImg": "../images/bigMan_4.gif"
+        },
+        {
+            "id": "15",
+            "img": "../images/bigMan_5.gif",
+            "smallImg": "../images/bigMan_5.gif",
+            "styleImg": "../images/bigMan_5.gif"
+        },
+        {
+            "id": "16",
+            "img": "../images/bigMan_2.gif",
+            "smallImg": "../images/bigMan_2.gif",
+            "styleImg": "../images/bigMan_2.gif"
+        },
+        {
+            "id": "17",
+            "img": "../images/bigMan_3.gif",
+            "smallImg": "../images/bigMan_3.gif",
+            "styleImg": "../images/bigMan_3.gif"
+        }
+    ],
+
+    "yujia": [
+        {
+            "id": "1",
+            "img": "../images/play_1.gif",
+            "smallImg": "../images/play_1.gif",
+            "styleImg": "../images/play_1.gif"
+        },
+        {
+            "id": "2",
+            "img": "../images/play_2.gif",
+            "smallImg": "../images/play_2.gif",
+            "styleImg": "../images/play_2.gif"
+        },
+        {
+            "id": "3",
+            "img": "../images/play_3.gif",
+            "smallImg": "../images/play_3.gif",
+            "styleImg": "../images/play_3.gif"
+        },
+        {
+            "id": "4",
+            "img": "../images/play_4.gif",
+            "smallImg": "../images/play_4.gif",
+            "styleImg": "../images/play_4.gif"
+        },
+        {
+            "id": "5",
+            "img": "../images/play_5.gif",
+            "smallImg": "../images/play_5.gif",
+            "styleImg": "../images/play_5.gif"
+        },
+        {
+            "id": "6",
+            "img": "../images/play_6.gif",
+            "smallImg": "../images/play_6.gif",
+            "styleImg": "../images/play_6.gif"
+        },
+        {
+            "id": "7",
+            "img": "../images/play_7.gif",
+            "smallImg": "../images/play_7.gif",
+            "styleImg": "../images/play_1.gif"
+        },
+        {
+            "id": "8",
+            "img": "../images/play_8.gif",
+            "smallImg": "../images/play_8.gif",
+            "styleImg": "../images/play_8.gif"
+        },
+        {
+            "id": "9",
+            "img": "../images/play_9.gif",
+            "smallImg": "../images/play_9.gif",
+            "styleImg": "../images/play_9.gif"
+        },
+        {
+            "id": "10",
+            "img": "../images/play_10.gif",
+            "smallImg": "../images/play_10.gif",
+            "styleImg": "../images/play_10.gif"
+        },
+        {
+            "id": "11",
+            "img": "../images/play_11.gif",
+            "smallImg": "../images/play_11.gif",
+            "styleImg": "../images/play_11.gif"
+        },
+        {
+            "id": "12",
+            "img": "../images/play_12.gif",
+            "smallImg": "../images/play_12.gif",
+            "styleImg": "../images/play_12.gif"
+        },
+        {
+            "id": "13",
+            "img": "../images/bigplay_1.gif",
+            "smallImg": "../images/bigplay_1.gif",
+            "styleImg": "../images/bigplay_1.gif"
+        },
+        {
+            "id": "14",
+            "img": "../images/bigplay_4.gif",
+            "smallImg": "../images/bigplay_4.gif",
+            "styleImg": "../images/bigplay_4.gif"
+        },
+        {
+            "id": "15",
+            "img": "../images/bigplay_2.gif",
+            "smallImg": "../images/bigplay_2.gif",
+            "styleImg": "../images/bigplay_2.gif"
+        },
+        {
+            "id": "16",
+            "img": "../images/bigplay_5.gif",
+            "smallImg": "../images/bigplay_5.gif",
+            "styleImg": "../images/bigplay_5.gif"
+        },
+        {
+            "id": "17",
+            "img": "../images/bigplay_3.gif",
+            "smallImg": "../images/bigplay_3.gif",
+            "styleImg": "../images/bigplay_3.gif"
+        }
+    ],
+
+    "tongzhuang": [
+        {
+            "id": "1",
+            "img": "../images/boy_1.gif",
+            "smallImg": "../images/boy_1.gif",
+            "styleImg": "../images/boy_1.gif"
+        },
+        {
+            "id": "2",
+            "img": "../images/boy_2.gif",
+            "smallImg": "../images/boy_2.gif",
+            "styleImg": "../images/boy_2.gif"
+        },
+        {
+            "id": "3",
+            "img": "../images/boy_3.gif",
+            "smallImg": "../images/boy_3.gif",
+            "styleImg": "../images/boy_3.gif"
+        },
+        {
+            "id": "4",
+            "img": "../images/boy_4.gif",
+            "smallImg": "../images/boy_4.gif",
+            "styleImg": "../images/boy_4.gif"
+        },
+        {
+            "id": "5",
+            "img": "../images/boy_5.gif",
+            "smallImg": "../images/boy_5.gif",
+            "styleImg": "../images/boy_5.gif"
+        },
+        {
+            "id": "6",
+            "img": "../images/boy_6.gif",
+            "smallImg": "../images/boy_6.gif",
+            "styleImg": "../images/boy_6.gif"
+        },
+        {
+            "id": "7",
+            "img": "../images/boy_7.gif",
+            "smallImg": "../images/boy_7.gif",
+            "styleImg": "../images/boy_7.gif"
+        },
+        {
+            "id": "8",
+            "img": "../images/boy_8.gif",
+            "smallImg": "../images/boy_8.gif",
+            "styleImg": "../images/boy_8.gif"
+        },
+        {
+            "id": "9",
+            "img": "../images/boy_9.gif",
+            "smallImg": "../images/boy_9.gif",
+            "styleImg": "../images/boy_9.gif"
+        },
+        {
+            "id": "10",
+            "img": "../images/boy_10.gif",
+            "smallImg": "../images/boy_10.gif",
+            "styleImg": "../images/boy_10.gif"
+        },
+        {
+            "id": "11",
+            "img": "../images/boy_11.gif",
+            "smallImg": "../images/boy_11.gif",
+            "styleImg": "../images/boy_11.gif"
+        },
+        {
+            "id": "12",
+            "img": "../images/boy_12.gif",
+            "smallImg": "../images/boy_12.gif",
+            "styleImg": "../images/boy_12.gif"
+        },
+        {
+            "id": "13",
+            "img": "../images/bigbody_1.gif",
+            "smallImg": "../images/bigbody_1.gif",
+            "styleImg": "../images/bigbody_1.gif"
+        },
+        {
+            "id": "14",
+            "img": "../images/bigbody_2.gif",
+            "smallImg": "../images/bigbody_2.gif",
+            "styleImg": "../images/bigbody_2.gif"
+        },
+        {
+            "id": "15",
+            "img": "../images/bigbody_3.gif",
+            "smallImg": "../images/bigbody_3.gif",
+            "styleImg": "../images/bigbody_3.gif"
+        },
+        {
+            "id": "16",
+            "img": "../images/bigbody_4.gif",
+            "smallImg": "../images/bigbody_4.gif",
+            "styleImg": "../images/bigbody_4.gif"
+        },
+        {
+            "id": "17",
+            "img": "../images/bigbody_5.gif",
+            "smallImg": "../images/bigbody_5.gif",
+            "styleImg": "../images/bigbody_5.gif"
+        }
+    ],
+
+    "xiangbao": [
+        {
+            "id": "1",
+            "img": "../images/xiangbao_1.gif",
+            "smallImg": "../images/xiangbao_1.gif",
+            "styleImg": "../images/xiangbao_1.gif"
+        },
+        {
+            "id": "2",
+            "img": "../images/xiangbao_2.gif",
+            "smallImg": "../images/xiangbao_2.gif",
+            "styleImg": "../images/xiangbao_2.gif"
+        },
+        {
+            "id": "3",
+            "img": "../images/xiangbao_3.gif",
+            "smallImg": "../images/xiangbao_3.gif",
+            "styleImg": "../images/xiangbao_3.gif"
+        },
+        {
+            "id": "4",
+            "img": "../images/xiangbao_4.gif",
+            "smallImg": "../images/xiangbao_4.gif",
+            "styleImg": "../images/xiangbao_4.gif"
+        },
+        {
+            "id": "5",
+            "img": "../images/xiangbao_5.gif",
+            "smallImg": "../images/xiangbao_5.gif",
+            "styleImg": "../images/xiangbao_5.gif"
+        },
+        {
+            "id": "6",
+            "img": "../images/xiangbao_6.gif",
+            "smallImg": "../images/xiangbao_6.gif",
+            "styleImg": "../images/xiangbao_6.gif"
+        },
+        {
+            "id": "7",
+            "img": "../images/xiangbao_7.gif",
+            "smallImg": "../images/xiangbao_7.gif",
+            "styleImg": "../images/xiangbao_7.gif"
+        },
+        {
+            "id": "8",
+            "img": "../images/xiangbao_8.gif",
+            "smallImg": "../images/xiangbao_8.gif",
+            "styleImg": "../images/xiangbao_8.gif"
+        },
+        {
+            "id": "9",
+            "img": "../images/bigxb_3.gif",
+            "smallImg": "../images/bigxb_3.gif",
+            "styleImg": "../images/bigxb_3.gif"
+        },
+        {
+            "id": "10",
+            "img": "../images/bigxb_5.gif",
+            "smallImg": "../images/bigxb_5.gif",
+            "styleImg": "../images/bigxb_5.gif"
+        },
+        {
+            "id": "11",
+            "img": "../images/bigxb_2.gif",
+            "smallImg": "../images/bigxb_2.gif",
+            "styleImg": "../images/bigxb_2.gif"
+        },
+        {
+            "id": "12",
+            "img": "../images/bigxb_4.gif",
+            "smallImg": "../images/bigxb_4.gif",
+            "styleImg": "../images/bigxb_4.gif"
+        },
+        {
+            "id": "13",
+            "img": "../images/bigxb_1.gif",
+            "smallImg": "../images/bigxb_1.gif",
+            "styleImg": "../images/bigxb_1.gif"
+        }
+    ],
+
+    "jiaju": [
+        {
+            "id": "1",
+            "img": "../images/jiaju_2.gif",
+            "smallImg": "../images/jiaju_2.gif",
+            "styleImg": "../images/jiaju_2.gif"
+        },
+        {
+            "id": "2",
+            "img": "../images/jiaju_3.gif",
+            "smallImg": "../images/jiaju_3.gif",
+            "styleImg": "../images/jiaju_3.gif"
+        },
+        {
+            "id": "3",
+            "img": "../images/jiaju_1.gif",
+            "smallImg": "../images/jiaju_1.gif",
+            "styleImg": "../images/jiaju_1.gif"
+        },
+        {
+            "id": "4",
+            "img": "../images/jiaju_4.gif",
+            "smallImg": "../images/jiaju_4.gif",
+            "styleImg": "../images/jiaju_4.gif"
+        },
+        {
+            "id": "5",
+            "img": "../images/jiaju_5.gif",
+            "smallImg": "../images/jiaju_5.gif",
+            "styleImg": "../images/jiaju_5.gif"
+        },
+        {
+            "id": "6",
+            "img": "../images/jiaju_6.gif",
+            "smallImg": "../images/jiaju_6.gif",
+            "styleImg": "../images/jiaju_6.gif"
+        },
+        {
+            "id": "7",
+            "img": "../images/jiaju_7.gif",
+            "smallImg": "../images/jiaju_7.gif",
+            "styleImg": "../images/jiaju_7.gif"
+        },
+        {
+            "id": "8",
+            "img": "../images/jiaju_8.gif",
+            "smallImg": "../images/jiaju_8.gif",
+            "styleImg": "../images/jiaju_8.gif"
+        },
+        {
+            "id": "9",
+            "img": "../images/bigjj_5.gif",
+            "smallImg": "../images/bigjj_5.gif",
+            "styleImg": "../images/bigjj_5.gif"
+        },
+        {
+            "id": "10",
+            "img": "../images/bigjj_4.gif",
+            "smallImg": "../images/bigjj_4.gif",
+            "styleImg": "../images/bigjj_4.gif"
+        },
+        {
+            "id": "11",
+            "img": "../images/bigjj_3.gif",
+            "smallImg": "../images/bigjj_3.gif",
+            "styleImg": "../images/bigjj_3.gif"
+        },
+        {
+            "id": "12",
+            "img": "../images/bigjj_2.gif",
+            "smallImg": "../images/bigjj_2.gif",
+            "styleImg": "../images/bigjj_2.gif"
+        },
+        {
+            "id": "13",
+            "img": "../images/bigjj_1.gif",
+            "smallImg": "../images/bigjj_1.gif",
+            "styleImg": "../images/bigjj_1.gif"
+        }
+    ]
+}

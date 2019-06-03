@@ -1,0 +1,60 @@
+
+[
+    {},
+{
+    "id": "1",
+    "img": "images/xiangbao_1.gif",
+    "tit1": "2019新品",
+    "tit2": "骆驼情侣皮肤衣",
+    "price": "￥219"
+},
+{
+    "id": "2",
+    "img": "images/xiangbao_2.gif",
+    "tit1": "2019新品",
+    "tit2": "男女轻薄透气皮肤衣",
+    "price": "￥279"
+},
+{
+    "id": "3",
+    "img": "images/xiangbao_3.gif",
+    "tit1": "2019新品",
+    "tit2": "户外休闲纯色T恤",
+    "price": "￥169"
+},
+{
+    "id": "4",
+    "img": "images/xiangbao_4.gif",
+    "tit1": "2019新品",
+    "tit2": "骆驼户外情侣休闲T恤",
+    "price": "￥119"
+},
+{
+    "id": "5",
+    "img": "images/xiangbao_5.gif",
+    "tit1": "2019新品",
+    "tit2": "骆驼户外速干裤",
+    "price": "￥169"
+},
+{
+    "id": "6",
+    "img": "images/xiangbao_6.gif",
+    "tit1": "2019新品",
+    "tit2": "男女款轻薄透气速干裤",
+    "price": "￥179"
+},
+{
+    "id": "7",
+    "img": "images/xiangbao_7.gif",
+    "tit1": "2019新品",
+    "tit2": "情侣款户外沙滩鞋",
+    "price": "￥139"
+},
+{
+    "id": "8",
+    "img": "images/xiangbao_8.gif",
+    "tit1": "2019新品",
+    "tit2": "男女魔术贴凉鞋",
+    "price": "￥149"
+}
+]
